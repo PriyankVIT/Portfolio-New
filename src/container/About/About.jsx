@@ -42,7 +42,7 @@ const About = () => {
           </motion.div>
         ))}
       </div>
-      <a href="" target="_blank" rel="noreferrer">
+      <a href="https://www.google.com/" target="_blank" rel="noreferrer">
         <div className="resume">
           <button>Download Resume</button>
         </div>

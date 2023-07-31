@@ -42,7 +42,7 @@ const About = () => {
           </motion.div>
         ))}
       </div>
-      <a href="https://drive.google.com/file/d/1m6BPy7ei5XHeAGJrDbBiKL2qgBHHtVMe/view?usp=sharing" target="_blank" rel="noreferrer">
+      <a href="https://1drv.ms/b/s!Ar-ILhYWZMfrjRpuygQaQX2zslpz?e=qpu7dr" target="_blank" rel="noreferrer">
         <div className="resume">
           <button>Download Resume</button>
         </div>
